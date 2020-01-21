@@ -1,0 +1,46 @@
+{
+  "name": "angularjs-chips",
+  "version": "1.0",
+  "homepage": "https://github.com/vbauermann/angularjs-chips",
+  "authors": [
+    "Vitor Bauermann"
+  ],
+  "description": "angularjs-chips is the angular based component. You can use it to add dynamic chips",
+  "main": [
+    "./dist/angularjs-chips.js",
+    "./dist/main.css"
+  ],
+  "keywords": [
+    "angular",
+    "chips",
+    "multiselect",
+    "single select",
+    "chip with promise",
+    "chips with promise",
+    "tags",
+    "inline tagging",
+    "inline tag",
+    "free form tags",
+    "promise based tags",
+    "promise based chip"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test"
+  ],
+  "devDependencies": {
+    "angular-bootstrap": "~1.2.1",
+    "components-font-awesome": "~4.5.0",
+    "bootstrap": "~3.3.6",
+    "angular-mocks": "1.4.8"
+  },
+  "dependencies": {
+    "angular": "v1.6.*"
+  },
+  "resolutions": {
+    "angular": "v1.6.*"
+  }
+}
