@@ -1,6 +1,6 @@
 {
   "name": "angularjs-chips",
-  "version": "1.0",
+  "version": "1.0.1",
   "description": "AngularJs-Chips is the angular based component. You can use it to add dynamic chips or free form tags. check samples directory for more information.",
   "author": "Vitor Bauermann",
   "license": "MIT",
