@@ -50,19 +50,19 @@ Using Promise Markup
 
 ### Examples:
 
-<a href="https://codepen.io/vbauermann/pen/jOEXqgM" target="_blank"><h4>Edit</h4></a>
+<a href="https://codepen.io/vbauermann/pen/jOEXqgM" target="_blank">Edit</a>
 <img src="others/Basic_example.gif" style="border: 1px solid #000000">
 
-<a href="https://codepen.io/vbauermann/pen/wvBRWwK" target="_blank"><h4>Edit</h4></a>
+<a href="https://codepen.io/vbauermann/pen/wvBRWwK" target="_blank">Edit</a>
 <img src="others/Custom_example.gif" style="border: 1px solid #000000">
 
-<a href="https://codepen.io/vbauermann/pen/LYEMZPg" target="_blank"><h4>Edit</h4></a>
+<a href="https://codepen.io/vbauermann/pen/LYEMZPg" target="_blank">Edit</a>
 <img src="others/Using_Promise_string_example.gif" style="border: 1px solid #000000">
 
-<a href="https://codepen.io/vbauermann/pen/JjowKjB" target="_blank"><h4>Edit</h4></a>
+<a href="https://codepen.io/vbauermann/pen/JjowKjB" target="_blank">Edit</a>
 <img src="others/Using_Promise_obj_example.gif" style="border: 1px solid #000000">
 
-<a href="https://codepen.io/vbauermann/pen/BayvzNo" target="_blank"> <h4>Edit</h4> </a>
+<a href="https://codepen.io/vbauermann/pen/BayvzNo" target="_blank">Edit</a>
 <img src="others/Using_typeahead_example2.gif" style="border: 1px solid #000000">
 
 
